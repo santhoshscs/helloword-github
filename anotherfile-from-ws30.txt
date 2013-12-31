@@ -1,3 +1,4 @@
 file from ws30
 line added from ws5
 one more line from ws5
+a line added directly from github
