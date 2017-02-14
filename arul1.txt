@@ -3,4 +3,4 @@ using System.Data;
 
 Console.writeline("Hello");
 Console.writeline("Edited From ws32");
-Added by AJith
+Addd and owned  by Ajith
