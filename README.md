@@ -1,3 +1,4 @@
-My First Readme Meta Data
-<br>
-Added this line from Github Wed interface
+# My First Readme Meta Data
+## This is second heading
+- This is bulleted list
+- This is anotehr item
